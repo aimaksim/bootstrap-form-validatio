@@ -1,4 +1,4 @@
-# bootstrap-form-validatio
+# bootstrap-form-validation
 Bootstrap form validation
 
 Preview :
