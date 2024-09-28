@@ -1,4 +1,4 @@
 # bootstrap-form-validation
 Bootstrap form validation
 
-Preview :
+Preview : https://aimaksim.github.io/bootstrap-form-validation/
